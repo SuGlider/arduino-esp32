@@ -474,6 +474,11 @@ size_t HardwareSerial::setTxBufferSize(size_t new_size) {
         return 0;
     }
 
+    if (new_size <= SOC_UART_FIFO_LEN) {
+        log_e("TX Buffer must be higher than %d.\n", SOC_UART_FIFO_LEN);
+        return 0;
+    }
+
     _txBufferSize = new_size;
     return _txBufferSize;
 }
