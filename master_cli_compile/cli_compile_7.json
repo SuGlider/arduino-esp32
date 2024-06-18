@@ -60,7 +60,7 @@
                     },
 {"name": "NetBIOS/examples/ESP_NBNST",
                     "sizes": [{
-                            "flash_bytes": 839109,
+                            "flash_bytes": 839165,
                             "flash_percentage": 26,
                             "ram_bytes": 36408,
                             "ram_percentage": 11
@@ -145,7 +145,7 @@
                     },
 {"name": "NetBIOS/examples/ESP_NBNST",
                     "sizes": [{
-                            "flash_bytes": 817582,
+                            "flash_bytes": 817638,
                             "flash_percentage": 25,
                             "ram_bytes": 32724,
                             "ram_percentage": 9
@@ -230,7 +230,7 @@
                     },
 {"name": "HTTPClient/examples/BasicHttpsClient",
                     "sizes": [{
-                            "flash_bytes": 1020758,
+                            "flash_bytes": 1019910,
                             "flash_percentage": 32,
                             "ram_bytes": 33236,
                             "ram_percentage": 10
@@ -387,7 +387,7 @@
                     },
 {"name": "HTTPClient/examples/BasicHttpsClient",
                     "sizes": [{
-                            "flash_bytes": 1003528,
+                            "flash_bytes": 1002680,
                             "flash_percentage": 31,
                             "ram_bytes": 58032,
                             "ram_percentage": 17
@@ -525,7 +525,7 @@
                     },
 {"name": "HTTPClient/examples/BasicHttpsClient",
                     "sizes": [{
-                            "flash_bytes": 1025521,
+                            "flash_bytes": 1024673,
                             "flash_percentage": 32,
                             "ram_bytes": 43928,
                             "ram_percentage": 13

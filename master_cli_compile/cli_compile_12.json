@@ -469,7 +469,7 @@
                 "sketches": [
 {"name": "WebServer/examples/SimpleAuthentification",
                     "sizes": [{
-                            "flash_bytes": 930657,
+                            "flash_bytes": 930649,
                             "flash_percentage": 29,
                             "ram_bytes": 42020,
                             "ram_percentage": 12
