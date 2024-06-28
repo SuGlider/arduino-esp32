@@ -469,6 +469,14 @@
                             "ram_bytes": 36248,
                             "ram_percentage": 11
                             }]
+                    },
+{"name": "BLE/examples/Notify",
+                    "sizes": [{
+                            "flash_bytes": 1165688,
+                            "flash_percentage": 37,
+                            "ram_bytes": 36224,
+                            "ram_percentage": 11
+                            }]
                     }
 ]
 },
