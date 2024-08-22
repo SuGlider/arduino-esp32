@@ -525,7 +525,7 @@
                     },
 {"name": "HTTPUpdate/examples/httpUpdateSecure",
                     "sizes": [{
-                            "flash_bytes": 1063333,
+                            "flash_bytes": 1063341,
                             "flash_percentage": 33,
                             "ram_bytes": 47552,
                             "ram_percentage": 14

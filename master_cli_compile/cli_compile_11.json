@@ -145,7 +145,7 @@
                     },
 {"name": "WebServer/examples/HttpAuthCallback",
                     "sizes": [{
-                            "flash_bytes": 942918,
+                            "flash_bytes": 942926,
                             "flash_percentage": 29,
                             "ram_bytes": 42588,
                             "ram_percentage": 12
