@@ -4,7 +4,7 @@
                 "sketches": [
 {"name": "ESP_NOW/examples/ESP_NOW_Network",
                     "sizes": [{
-                            "flash_bytes": 871933,
+                            "flash_bytes": 871941,
                             "flash_percentage": 66,
                             "ram_bytes": 40716,
                             "ram_percentage": 12
