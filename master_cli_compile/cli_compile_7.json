@@ -20,7 +20,7 @@
                     },
 {"name": "HTTPUpdate/examples/httpUpdate",
                     "sizes": [{
-                            "flash_bytes": 947209,
+                            "flash_bytes": 947201,
                             "flash_percentage": 72,
                             "ram_bytes": 42780,
                             "ram_percentage": 13
@@ -169,7 +169,7 @@
                     },
 {"name": "NetworkClientSecure/examples/WiFiClientTrustOnFirstUse",
                     "sizes": [{
-                            "flash_bytes": 945926,
+                            "flash_bytes": 945918,
                             "flash_percentage": 72,
                             "ram_bytes": 38408,
                             "ram_percentage": 11
