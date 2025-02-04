@@ -666,7 +666,7 @@
                 "sketches": [
 {"name": "Matter/examples/MatterSmartButon",
                     "sizes": [{
-                            "flash_bytes": 1645612,
+                            "flash_bytes": 1645628,
                             "flash_percentage": 52,
                             "ram_bytes": 91852,
                             "ram_percentage": 28
