@@ -169,7 +169,7 @@
                     },
 {"name": "Insights/examples/MinimalDiagnostics",
                     "sizes": [{
-                            "flash_bytes": 987886,
+                            "flash_bytes": 987870,
                             "flash_percentage": 75,
                             "ram_bytes": 47308,
                             "ram_percentage": 14

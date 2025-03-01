@@ -310,7 +310,7 @@
                     },
 {"name": "Matter/examples/WiFiProvWithinMatter",
                     "sizes": [{
-                            "flash_bytes": 1702917,
+                            "flash_bytes": 1702909,
                             "flash_percentage": 54,
                             "ram_bytes": 86840,
                             "ram_percentage": 26
@@ -682,7 +682,7 @@
                     },
 {"name": "HTTPUpdateServer/examples/WebUpdater",
                     "sizes": [{
-                            "flash_bytes": 993994,
+                            "flash_bytes": 993978,
                             "flash_percentage": 75,
                             "ram_bytes": 49336,
                             "ram_percentage": 15
