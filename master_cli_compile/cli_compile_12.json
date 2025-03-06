@@ -746,7 +746,7 @@
                     },
 {"name": "WiFi/examples/WiFiClientEnterprise",
                     "sizes": [{
-                            "flash_bytes": 1006118,
+                            "flash_bytes": 1006102,
                             "flash_percentage": 76,
                             "ram_bytes": 47008,
                             "ram_percentage": 14
