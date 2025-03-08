@@ -238,7 +238,7 @@
                 "sketches": [
 {"name": "WiFi/examples/WiFiClient",
                     "sizes": [{
-                            "flash_bytes": 834897,
+                            "flash_bytes": 834889,
                             "flash_percentage": 63,
                             "ram_bytes": 40692,
                             "ram_percentage": 12
