@@ -310,7 +310,7 @@
                     },
 {"name": "Matter/examples/MatterDimmableLight",
                     "sizes": [{
-                            "flash_bytes": 1659481,
+                            "flash_bytes": 1659473,
                             "flash_percentage": 52,
                             "ram_bytes": 94932,
                             "ram_percentage": 28

@@ -238,7 +238,7 @@
                 "sketches": [
 {"name": "WebServer/examples/HttpBasicAuthSHA1orBearerToken",
                     "sizes": [{
-                            "flash_bytes": 938685,
+                            "flash_bytes": 938693,
                             "flash_percentage": 71,
                             "ram_bytes": 45916,
                             "ram_percentage": 14
