@@ -254,7 +254,7 @@
                     },
 {"name": "Matter/examples/MatterContactSensor",
                     "sizes": [{
-                            "flash_bytes": 1643081,
+                            "flash_bytes": 1643073,
                             "flash_percentage": 52,
                             "ram_bytes": 93944,
                             "ram_percentage": 28
@@ -297,6 +297,14 @@
                             "flash_bytes": 1628777,
                             "flash_percentage": 51,
                             "ram_bytes": 93684,
+                            "ram_percentage": 28
+                            }]
+                    },
+{"name": "Matter/examples/MatterLambdaSingleCallbackManyEPs",
+                    "sizes": [{
+                            "flash_bytes": 1634297,
+                            "flash_percentage": 51,
+                            "ram_bytes": 94028,
                             "ram_percentage": 28
                             }]
                     },
@@ -345,14 +353,6 @@
                             "flash_bytes": 1628785,
                             "flash_percentage": 51,
                             "ram_bytes": 93684,
-                            "ram_percentage": 28
-                            }]
-                    },
-{"name": "Matter/examples/MatterSmartButon",
-                    "sizes": [{
-                            "flash_bytes": 1632321,
-                            "flash_percentage": 51,
-                            "ram_bytes": 93708,
                             "ram_percentage": 28
                             }]
                     }
@@ -590,20 +590,20 @@
                             "ram_percentage": 28
                             }]
                     },
+{"name": "Matter/examples/MatterLambdaSingleCallbackManyEPs",
+                    "sizes": [{
+                            "flash_bytes": 1638535,
+                            "flash_percentage": 52,
+                            "ram_bytes": 95104,
+                            "ram_percentage": 29
+                            }]
+                    },
 {"name": "Matter/examples/MatterMinimum",
                     "sizes": [{
                             "flash_bytes": 1655943,
                             "flash_percentage": 52,
                             "ram_bytes": 95696,
                             "ram_percentage": 29
-                            }]
-                    },
-{"name": "Matter/examples/MatterOccupancySensor",
-                    "sizes": [{
-                            "flash_bytes": 1630539,
-                            "flash_percentage": 51,
-                            "ram_bytes": 94760,
-                            "ram_percentage": 28
                             }]
                     }
 ]
