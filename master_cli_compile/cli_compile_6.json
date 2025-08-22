@@ -831,7 +831,7 @@
                 "sketches": [
 {"name": "ESPmDNS/examples/mDNS-SD_Extended",
                     "sizes": [{
-                            "flash_bytes": 942639,
+                            "flash_bytes": 942623,
                             "flash_percentage": 71,
                             "ram_bytes": 45728,
                             "ram_percentage": 13

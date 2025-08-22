@@ -935,7 +935,7 @@
                     },
 {"name": "WebServer/examples/UploadHugeFile",
                     "sizes": [{
-                            "flash_bytes": 1291783,
+                            "flash_bytes": 1291767,
                             "flash_percentage": 41,
                             "ram_bytes": 51636,
                             "ram_percentage": 15
