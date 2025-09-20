@@ -895,7 +895,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiTelnetToSerial",
                     "sizes": [{
-                            "flash_bytes": 936239,
+                            "flash_bytes": 936223,
                             "flash_percentage": 71,
                             "ram_bytes": 44844,
                             "ram_percentage": 13
