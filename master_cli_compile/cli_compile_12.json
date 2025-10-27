@@ -52,7 +52,7 @@
                     },
 {"name": "libraries/Wire/examples/WireMaster",
                     "sizes": [{
-                            "flash_bytes": 310498,
+                            "flash_bytes": 310510,
                             "flash_percentage": 23,
                             "ram_bytes": 17500,
                             "ram_percentage": 5
@@ -60,7 +60,7 @@
                     },
 {"name": "libraries/Wire/examples/WireScan",
                     "sizes": [{
-                            "flash_bytes": 310248,
+                            "flash_bytes": 310258,
                             "flash_percentage": 23,
                             "ram_bytes": 17500,
                             "ram_percentage": 5
@@ -68,7 +68,7 @@
                     },
 {"name": "libraries/Wire/examples/WireSlave",
                     "sizes": [{
-                            "flash_bytes": 310822,
+                            "flash_bytes": 310834,
                             "flash_percentage": 23,
                             "ram_bytes": 17500,
                             "ram_percentage": 5
@@ -76,7 +76,7 @@
                     },
 {"name": "libraries/Wire/examples/WireSlaveFunctionalCallback",
                     "sizes": [{
-                            "flash_bytes": 310720,
+                            "flash_bytes": 310732,
                             "flash_percentage": 23,
                             "ram_bytes": 17500,
                             "ram_percentage": 5
@@ -145,8 +145,8 @@
                 "sketches": [
 {"name": "libraries/WebServer/examples/SDWebServer",
                     "sizes": [{
-                            "flash_bytes": 969908,
-                            "flash_percentage": 73,
+                            "flash_bytes": 969936,
+                            "flash_percentage": 74,
                             "ram_bytes": 33680,
                             "ram_percentage": 10
                             }]
@@ -161,7 +161,7 @@
                     },
 {"name": "libraries/WebServer/examples/UploadHugeFile",
                     "sizes": [{
-                            "flash_bytes": 1216972,
+                            "flash_bytes": 1217000,
                             "flash_percentage": 38,
                             "ram_bytes": 36576,
                             "ram_percentage": 11
@@ -169,7 +169,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 981648,
+                            "flash_bytes": 981676,
                             "flash_percentage": 74,
                             "ram_bytes": 31512,
                             "ram_percentage": 9
@@ -262,7 +262,7 @@
                 "sketches": [
 {"name": "libraries/WebServer/examples/UploadHugeFile",
                     "sizes": [{
-                            "flash_bytes": 1261015,
+                            "flash_bytes": 1261047,
                             "flash_percentage": 40,
                             "ram_bytes": 50364,
                             "ram_percentage": 15
@@ -270,7 +270,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 995499,
+                            "flash_bytes": 995531,
                             "flash_percentage": 75,
                             "ram_bytes": 45384,
                             "ram_percentage": 13
@@ -475,7 +475,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiMultiAdvanced",
                     "sizes": [{
-                            "flash_bytes": 960794,
+                            "flash_bytes": 960806,
                             "flash_percentage": 73,
                             "ram_bytes": 40508,
                             "ram_percentage": 12
@@ -515,7 +515,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiSmartConfig",
                     "sizes": [{
-                            "flash_bytes": 857422,
+                            "flash_bytes": 857414,
                             "flash_percentage": 65,
                             "ram_bytes": 38908,
                             "ram_percentage": 11
@@ -624,7 +624,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiMultiAdvanced",
                     "sizes": [{
-                            "flash_bytes": 1071196,
+                            "flash_bytes": 1071176,
                             "flash_percentage": 81,
                             "ram_bytes": 35664,
                             "ram_percentage": 10
@@ -725,7 +725,7 @@
                     },
 {"name": "libraries/Wire/examples/WireMaster",
                     "sizes": [{
-                            "flash_bytes": 276066,
+                            "flash_bytes": 276076,
                             "flash_percentage": 21,
                             "ram_bytes": 14580,
                             "ram_percentage": 4
@@ -733,7 +733,7 @@
                     },
 {"name": "libraries/Wire/examples/WireScan",
                     "sizes": [{
-                            "flash_bytes": 275816,
+                            "flash_bytes": 275826,
                             "flash_percentage": 21,
                             "ram_bytes": 14572,
                             "ram_percentage": 4
@@ -741,7 +741,7 @@
                     },
 {"name": "libraries/Wire/examples/WireSlave",
                     "sizes": [{
-                            "flash_bytes": 276400,
+                            "flash_bytes": 276410,
                             "flash_percentage": 21,
                             "ram_bytes": 14580,
                             "ram_percentage": 4
@@ -749,7 +749,7 @@
                     },
 {"name": "libraries/Wire/examples/WireSlaveFunctionalCallback",
                     "sizes": [{
-                            "flash_bytes": 276298,
+                            "flash_bytes": 276308,
                             "flash_percentage": 21,
                             "ram_bytes": 14580,
                             "ram_percentage": 4
@@ -1007,7 +1007,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiMultiAdvanced",
                     "sizes": [{
-                            "flash_bytes": 1037763,
+                            "flash_bytes": 1037771,
                             "flash_percentage": 79,
                             "ram_bytes": 46596,
                             "ram_percentage": 14
