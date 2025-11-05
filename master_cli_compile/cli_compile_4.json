@@ -4,137 +4,137 @@
                 "sketches": [
 {"name": "libraries/ESP32/examples/Timer/RepeatTimer",
                     "sizes": [{
-                            "flash_bytes": 291262,
+                            "flash_bytes": 295534,
                             "flash_percentage": 22,
-                            "ram_bytes": 16508,
+                            "ram_bytes": 16796,
                             "ram_percentage": 5
                             }]
                     },
 {"name": "libraries/ESP32/examples/Timer/WatchdogTimer",
                     "sizes": [{
-                            "flash_bytes": 291058,
+                            "flash_bytes": 295324,
                             "flash_percentage": 22,
-                            "ram_bytes": 16492,
+                            "ram_bytes": 16788,
                             "ram_percentage": 5
                             }]
                     },
 {"name": "libraries/ESP_I2S/examples/ES8388_loopback",
                     "sizes": [{
-                            "flash_bytes": 367906,
+                            "flash_bytes": 372170,
                             "flash_percentage": 28,
-                            "ram_bytes": 17924,
+                            "ram_bytes": 18212,
                             "ram_percentage": 5
                             }]
                     },
 {"name": "libraries/ESP_I2S/examples/Simple_tone",
                     "sizes": [{
-                            "flash_bytes": 311318,
-                            "flash_percentage": 23,
-                            "ram_bytes": 16292,
-                            "ram_percentage": 4
+                            "flash_bytes": 315584,
+                            "flash_percentage": 24,
+                            "ram_bytes": 16588,
+                            "ram_percentage": 5
                             }]
                     },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Broadcast_Master",
                     "sizes": [{
-                            "flash_bytes": 988248,
+                            "flash_bytes": 992524,
                             "flash_percentage": 75,
-                            "ram_bytes": 45848,
-                            "ram_percentage": 13
+                            "ram_bytes": 46132,
+                            "ram_percentage": 14
                             }]
                     },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Broadcast_Slave",
                     "sizes": [{
-                            "flash_bytes": 988650,
+                            "flash_bytes": 992934,
                             "flash_percentage": 75,
-                            "ram_bytes": 45832,
-                            "ram_percentage": 13
+                            "ram_bytes": 46116,
+                            "ram_percentage": 14
                             }]
                     },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Network",
                     "sizes": [{
-                            "flash_bytes": 991934,
-                            "flash_percentage": 75,
-                            "ram_bytes": 45928,
+                            "flash_bytes": 996210,
+                            "flash_percentage": 76,
+                            "ram_bytes": 46212,
                             "ram_percentage": 14
                             }]
                     },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Serial",
                     "sizes": [{
-                            "flash_bytes": 991284,
+                            "flash_bytes": 995562,
                             "flash_percentage": 75,
-                            "ram_bytes": 45920,
+                            "ram_bytes": 46204,
                             "ram_percentage": 14
                             }]
                     },
 {"name": "libraries/ESPmDNS/examples/mDNS-SD_Extended",
                     "sizes": [{
-                            "flash_bytes": 1010524,
+                            "flash_bytes": 1014794,
                             "flash_percentage": 77,
-                            "ram_bytes": 47952,
+                            "ram_bytes": 48244,
                             "ram_percentage": 14
                             }]
                     },
 {"name": "libraries/ESPmDNS/examples/mDNS_Web_Server",
                     "sizes": [{
-                            "flash_bytes": 1033114,
-                            "flash_percentage": 78,
-                            "ram_bytes": 49256,
+                            "flash_bytes": 1037384,
+                            "flash_percentage": 79,
+                            "ram_bytes": 49540,
                             "ram_percentage": 15
                             }]
                     },
 {"name": "libraries/Ethernet/examples/ETH_W5500_Arduino_SPI",
                     "sizes": [{
-                            "flash_bytes": 584348,
-                            "flash_percentage": 44,
-                            "ram_bytes": 21496,
+                            "flash_bytes": 589850,
+                            "flash_percentage": 45,
+                            "ram_bytes": 21896,
                             "ram_percentage": 6
                             }]
                     },
 {"name": "libraries/Ethernet/examples/ETH_W5500_IDF_SPI",
                     "sizes": [{
-                            "flash_bytes": 582702,
+                            "flash_bytes": 588204,
                             "flash_percentage": 44,
-                            "ram_bytes": 21496,
+                            "ram_bytes": 21896,
                             "ram_percentage": 6
                             }]
                     },
 {"name": "libraries/Ethernet/examples/ETH_WIFI_BRIDGE",
                     "sizes": [{
-                            "flash_bytes": 1097690,
-                            "flash_percentage": 83,
-                            "ram_bytes": 46120,
+                            "flash_bytes": 1101962,
+                            "flash_percentage": 84,
+                            "ram_bytes": 46404,
                             "ram_percentage": 14
                             }]
                     },
 {"name": "libraries/FFat/examples/FFat_Test",
                     "sizes": [{
-                            "flash_bytes": 345314,
+                            "flash_bytes": 349576,
                             "flash_percentage": 26,
-                            "ram_bytes": 16952,
+                            "ram_bytes": 17232,
                             "ram_percentage": 5
                             }]
                     },
 {"name": "libraries/FFat/examples/FFat_time",
                     "sizes": [{
-                            "flash_bytes": 1047462,
-                            "flash_percentage": 79,
-                            "ram_bytes": 47176,
+                            "flash_bytes": 1051740,
+                            "flash_percentage": 80,
+                            "ram_bytes": 47460,
                             "ram_percentage": 14
                             }]
                     },
 {"name": "libraries/HTTPClient/examples/Authorization",
                     "sizes": [{
-                            "flash_bytes": 1129544,
+                            "flash_bytes": 1133814,
                             "flash_percentage": 86,
-                            "ram_bytes": 47528,
+                            "ram_bytes": 47820,
                             "ram_percentage": 14
                             }]
                     },
 {"name": "libraries/HTTPClient/examples/BasicHttpClient",
                     "sizes": [{
-                            "flash_bytes": 1129528,
+                            "flash_bytes": 1133806,
                             "flash_percentage": 86,
-                            "ram_bytes": 47528,
+                            "ram_bytes": 47820,
                             "ram_percentage": 14
                             }]
                     }
@@ -310,7 +310,7 @@
                     },
 {"name": "libraries/ESP32/examples/Touch/TouchButton",
                     "sizes": [{
-                            "flash_bytes": 307247,
+                            "flash_bytes": 307251,
                             "flash_percentage": 23,
                             "ram_bytes": 21452,
                             "ram_percentage": 6
@@ -318,7 +318,7 @@
                     },
 {"name": "libraries/ESP32/examples/Touch/TouchInterrupt",
                     "sizes": [{
-                            "flash_bytes": 307139,
+                            "flash_bytes": 307143,
                             "flash_percentage": 23,
                             "ram_bytes": 21452,
                             "ram_percentage": 6
@@ -451,23 +451,23 @@
                     },
 {"name": "libraries/Ethernet/examples/ETH_W5500_Arduino_SPI",
                     "sizes": [{
-                            "flash_bytes": 526918,
+                            "flash_bytes": 527894,
                             "flash_percentage": 40,
-                            "ram_bytes": 20796,
+                            "ram_bytes": 20844,
                             "ram_percentage": 6
                             }]
                     },
 {"name": "libraries/Ethernet/examples/ETH_W5500_IDF_SPI",
                     "sizes": [{
-                            "flash_bytes": 525486,
+                            "flash_bytes": 526430,
                             "flash_percentage": 40,
-                            "ram_bytes": 20796,
+                            "ram_bytes": 20844,
                             "ram_percentage": 6
                             }]
                     },
 {"name": "libraries/Ethernet/examples/ETH_WIFI_BRIDGE",
                     "sizes": [{
-                            "flash_bytes": 933410,
+                            "flash_bytes": 933414,
                             "flash_percentage": 71,
                             "ram_bytes": 39152,
                             "ram_percentage": 11
@@ -757,23 +757,23 @@
                     },
 {"name": "libraries/Ethernet/examples/ETH_W5500_Arduino_SPI",
                     "sizes": [{
-                            "flash_bytes": 551910,
+                            "flash_bytes": 553156,
                             "flash_percentage": 42,
-                            "ram_bytes": 19176,
+                            "ram_bytes": 19288,
                             "ram_percentage": 5
                             }]
                     },
 {"name": "libraries/Ethernet/examples/ETH_W5500_IDF_SPI",
                     "sizes": [{
-                            "flash_bytes": 550232,
-                            "flash_percentage": 41,
-                            "ram_bytes": 19176,
+                            "flash_bytes": 551478,
+                            "flash_percentage": 42,
+                            "ram_bytes": 19288,
                             "ram_percentage": 5
                             }]
                     },
 {"name": "libraries/Ethernet/examples/ETH_WIFI_BRIDGE",
                     "sizes": [{
-                            "flash_bytes": 1064700,
+                            "flash_bytes": 1064702,
                             "flash_percentage": 81,
                             "ram_bytes": 41068,
                             "ram_percentage": 12
