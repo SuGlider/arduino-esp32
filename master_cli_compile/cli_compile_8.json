@@ -292,70 +292,6 @@
 { "board": "espressif:esp32:esp32c5",
                 "target": "esp32c5",
                 "sketches": [
-{"name": "libraries/Matter/examples/MatterTemperatureLight",
-                    "sizes": [{
-                            "flash_bytes": 2261067,
-                            "flash_percentage": 71,
-                            "ram_bytes": 103764,
-                            "ram_percentage": 31
-                            }]
-                    },
-{"name": "libraries/Matter/examples/MatterTemperatureSensor",
-                    "sizes": [{
-                            "flash_bytes": 2192271,
-                            "flash_percentage": 69,
-                            "ram_bytes": 103520,
-                            "ram_percentage": 31
-                            }]
-                    },
-{"name": "libraries/Matter/examples/MatterThermostat",
-                    "sizes": [{
-                            "flash_bytes": 2219045,
-                            "flash_percentage": 70,
-                            "ram_bytes": 103648,
-                            "ram_percentage": 31
-                            }]
-                    },
-{"name": "libraries/Matter/examples/MatterWaterFreezeDetector",
-                    "sizes": [{
-                            "flash_bytes": 2210627,
-                            "flash_percentage": 70,
-                            "ram_bytes": 103692,
-                            "ram_percentage": 31
-                            }]
-                    },
-{"name": "libraries/Matter/examples/MatterWaterLeakDetector",
-                    "sizes": [{
-                            "flash_bytes": 2210627,
-                            "flash_percentage": 70,
-                            "ram_bytes": 103692,
-                            "ram_percentage": 31
-                            }]
-                    },
-{"name": "libraries/Matter/examples/MatterWindowCovering",
-                    "sizes": [{
-                            "flash_bytes": 2232217,
-                            "flash_percentage": 70,
-                            "ram_bytes": 103876,
-                            "ram_percentage": 31
-                            }]
-                    },
-{"name": "libraries/NetBIOS/examples/ESP_NBNST",
-                    "sizes": [{
-                            "flash_bytes": 993287,
-                            "flash_percentage": 75,
-                            "ram_bytes": 47612,
-                            "ram_percentage": 14
-                            }]
-                    },
-{"name": "libraries/NetworkClientSecure/examples/WiFiClientInsecure",
-                    "sizes": [{
-                            "flash_bytes": 1104575,
-                            "flash_percentage": 84,
-                            "ram_bytes": 49404,
-                            "ram_percentage": 15
-                            }]
-                    },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientPSK",
                     "sizes": [{
                             "flash_bytes": 1104601,
@@ -433,6 +369,78 @@
                             "flash_bytes": 1156257,
                             "flash_percentage": 88,
                             "ram_bytes": 46504,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "libraries/OpenThread/examples/CLI/SimpleThreadNetwork/ExtendedRouterNode",
+                    "sizes": [{
+                            "flash_bytes": 1159361,
+                            "flash_percentage": 88,
+                            "ram_bytes": 46512,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "libraries/OpenThread/examples/CLI/SimpleThreadNetwork/LeaderNode",
+                    "sizes": [{
+                            "flash_bytes": 1156691,
+                            "flash_percentage": 88,
+                            "ram_bytes": 46512,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "libraries/OpenThread/examples/CLI/SimpleThreadNetwork/RouterNode",
+                    "sizes": [{
+                            "flash_bytes": 1156755,
+                            "flash_percentage": 88,
+                            "ram_bytes": 46512,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "libraries/OpenThread/examples/CLI/ThreadScan",
+                    "sizes": [{
+                            "flash_bytes": 1156409,
+                            "flash_percentage": 88,
+                            "ram_bytes": 46480,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "libraries/OpenThread/examples/CLI/onReceive",
+                    "sizes": [{
+                            "flash_bytes": 1156023,
+                            "flash_percentage": 88,
+                            "ram_bytes": 46480,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "libraries/OpenThread/examples/Native/SimpleThreadNetwork/LeaderNode",
+                    "sizes": [{
+                            "flash_bytes": 1049327,
+                            "flash_percentage": 80,
+                            "ram_bytes": 46128,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "libraries/OpenThread/examples/Native/SimpleThreadNetwork/RouterNode",
+                    "sizes": [{
+                            "flash_bytes": 1046553,
+                            "flash_percentage": 79,
+                            "ram_bytes": 46120,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "libraries/PPP/examples/PPP_Basic",
+                    "sizes": [{
+                            "flash_bytes": 568748,
+                            "flash_percentage": 43,
+                            "ram_bytes": 22448,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "libraries/PPP/examples/PPP_WIFI_BRIDGE",
+                    "sizes": [{
+                            "flash_bytes": 1089785,
+                            "flash_percentage": 83,
+                            "ram_bytes": 47944,
                             "ram_percentage": 14
                             }]
                     }

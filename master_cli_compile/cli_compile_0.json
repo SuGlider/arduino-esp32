@@ -44,7 +44,7 @@
                     },
 {"name": "libraries/BLE/examples/Beacon_Scanner",
                     "sizes": [{
-                            "flash_bytes": 1093491,
+                            "flash_bytes": 1093639,
                             "flash_percentage": 34,
                             "ram_bytes": 41272,
                             "ram_percentage": 12
@@ -52,7 +52,7 @@
                     },
 {"name": "libraries/BLE/examples/Client",
                     "sizes": [{
-                            "flash_bytes": 1106415,
+                            "flash_bytes": 1106567,
                             "flash_percentage": 35,
                             "ram_bytes": 41320,
                             "ram_percentage": 12
@@ -60,7 +60,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Gamepad",
                     "sizes": [{
-                            "flash_bytes": 1106211,
+                            "flash_bytes": 1106343,
                             "flash_percentage": 35,
                             "ram_bytes": 41344,
                             "ram_percentage": 12
@@ -68,7 +68,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Server",
                     "sizes": [{
-                            "flash_bytes": 1117315,
+                            "flash_bytes": 1117463,
                             "flash_percentage": 35,
                             "ram_bytes": 41352,
                             "ram_percentage": 12
@@ -76,7 +76,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_multiconnect",
                     "sizes": [{
-                            "flash_bytes": 1108275,
+                            "flash_bytes": 1108415,
                             "flash_percentage": 35,
                             "ram_bytes": 41408,
                             "ram_percentage": 12
@@ -84,7 +84,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_secure_static_passkey",
                     "sizes": [{
-                            "flash_bytes": 1114851,
+                            "flash_bytes": 1115003,
                             "flash_percentage": 35,
                             "ram_bytes": 41344,
                             "ram_percentage": 12
@@ -92,7 +92,7 @@
                     },
 {"name": "libraries/BLE/examples/EddystoneTLM_Beacon",
                     "sizes": [{
-                            "flash_bytes": 1096431,
+                            "flash_bytes": 1096575,
                             "flash_percentage": 34,
                             "ram_bytes": 41344,
                             "ram_percentage": 12
@@ -100,7 +100,7 @@
                     },
 {"name": "libraries/BLE/examples/EddystoneURL_Beacon",
                     "sizes": [{
-                            "flash_bytes": 1096823,
+                            "flash_bytes": 1096971,
                             "flash_percentage": 34,
                             "ram_bytes": 41432,
                             "ram_percentage": 12
@@ -108,7 +108,7 @@
                     },
 {"name": "libraries/BLE/examples/Notify",
                     "sizes": [{
-                            "flash_bytes": 1098787,
+                            "flash_bytes": 1098939,
                             "flash_percentage": 34,
                             "ram_bytes": 41288,
                             "ram_percentage": 12
@@ -116,7 +116,7 @@
                     },
 {"name": "libraries/BLE/examples/Scan",
                     "sizes": [{
-                            "flash_bytes": 1089447,
+                            "flash_bytes": 1089595,
                             "flash_percentage": 34,
                             "ram_bytes": 41272,
                             "ram_percentage": 12
@@ -124,7 +124,7 @@
                     },
 {"name": "libraries/BLE/examples/Server",
                     "sizes": [{
-                            "flash_bytes": 1094607,
+                            "flash_bytes": 1094783,
                             "flash_percentage": 34,
                             "ram_bytes": 41272,
                             "ram_percentage": 12
@@ -132,7 +132,7 @@
                     },
 {"name": "libraries/BLE/examples/Server_Gamepad",
                     "sizes": [{
-                            "flash_bytes": 1107575,
+                            "flash_bytes": 1107711,
                             "flash_percentage": 35,
                             "ram_bytes": 41296,
                             "ram_percentage": 12
@@ -140,7 +140,7 @@
                     },
 {"name": "libraries/BLE/examples/Server_multiconnect",
                     "sizes": [{
-                            "flash_bytes": 1098839,
+                            "flash_bytes": 1098991,
                             "flash_percentage": 34,
                             "ram_bytes": 41288,
                             "ram_percentage": 12
@@ -201,7 +201,7 @@
                     },
 {"name": "libraries/BLE/examples/Client",
                     "sizes": [{
-                            "flash_bytes": 672447,
+                            "flash_bytes": 672459,
                             "flash_percentage": 21,
                             "ram_bytes": 17848,
                             "ram_percentage": 5
@@ -217,7 +217,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Server",
                     "sizes": [{
-                            "flash_bytes": 681957,
+                            "flash_bytes": 681969,
                             "flash_percentage": 21,
                             "ram_bytes": 17880,
                             "ram_percentage": 5
@@ -225,7 +225,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_multiconnect",
                     "sizes": [{
-                            "flash_bytes": 674733,
+                            "flash_bytes": 674745,
                             "flash_percentage": 21,
                             "ram_bytes": 17936,
                             "ram_percentage": 5
@@ -233,7 +233,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_secure_static_passkey",
                     "sizes": [{
-                            "flash_bytes": 680985,
+                            "flash_bytes": 680997,
                             "flash_percentage": 21,
                             "ram_bytes": 17872,
                             "ram_percentage": 5
@@ -342,7 +342,7 @@
                     },
 {"name": "libraries/BLE/examples/Client",
                     "sizes": [{
-                            "flash_bytes": 833481,
+                            "flash_bytes": 833493,
                             "flash_percentage": 26,
                             "ram_bytes": 22964,
                             "ram_percentage": 7
@@ -358,7 +358,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Server",
                     "sizes": [{
-                            "flash_bytes": 843007,
+                            "flash_bytes": 843019,
                             "flash_percentage": 26,
                             "ram_bytes": 22996,
                             "ram_percentage": 7
@@ -366,7 +366,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_multiconnect",
                     "sizes": [{
-                            "flash_bytes": 835783,
+                            "flash_bytes": 835795,
                             "flash_percentage": 26,
                             "ram_bytes": 23052,
                             "ram_percentage": 7
@@ -374,7 +374,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_secure_static_passkey",
                     "sizes": [{
-                            "flash_bytes": 842031,
+                            "flash_bytes": 842043,
                             "flash_percentage": 26,
                             "ram_bytes": 23012,
                             "ram_percentage": 7
@@ -435,6 +435,14 @@
                             "ram_bytes": 22924,
                             "ram_percentage": 6
                             }]
+                    },
+{"name": "libraries/BLE/examples/Server_secure_authorization",
+                    "sizes": [{
+                            "flash_bytes": 805269,
+                            "flash_percentage": 25,
+                            "ram_bytes": 23216,
+                            "ram_percentage": 7
+                            }]
                     }
 ]
 },
@@ -491,7 +499,7 @@
                     },
 {"name": "libraries/BLE/examples/Client",
                     "sizes": [{
-                            "flash_bytes": 755184,
+                            "flash_bytes": 755196,
                             "flash_percentage": 24,
                             "ram_bytes": 18304,
                             "ram_percentage": 5
@@ -507,7 +515,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Server",
                     "sizes": [{
-                            "flash_bytes": 764710,
+                            "flash_bytes": 764722,
                             "flash_percentage": 24,
                             "ram_bytes": 18336,
                             "ram_percentage": 5
@@ -515,7 +523,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_multiconnect",
                     "sizes": [{
-                            "flash_bytes": 757486,
+                            "flash_bytes": 757498,
                             "flash_percentage": 24,
                             "ram_bytes": 18392,
                             "ram_percentage": 5
@@ -523,7 +531,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_secure_static_passkey",
                     "sizes": [{
-                            "flash_bytes": 763740,
+                            "flash_bytes": 763752,
                             "flash_percentage": 24,
                             "ram_bytes": 18352,
                             "ram_percentage": 5
@@ -608,7 +616,7 @@
                     },
 {"name": "libraries/BLE/examples/Client",
                     "sizes": [{
-                            "flash_bytes": 788885,
+                            "flash_bytes": 788897,
                             "flash_percentage": 25,
                             "ram_bytes": 16892,
                             "ram_percentage": 5
@@ -624,7 +632,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Server",
                     "sizes": [{
-                            "flash_bytes": 798403,
+                            "flash_bytes": 798415,
                             "flash_percentage": 25,
                             "ram_bytes": 16916,
                             "ram_percentage": 5
@@ -632,7 +640,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_multiconnect",
                     "sizes": [{
-                            "flash_bytes": 791179,
+                            "flash_bytes": 791191,
                             "flash_percentage": 25,
                             "ram_bytes": 16980,
                             "ram_percentage": 5
@@ -640,7 +648,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_secure_static_passkey",
                     "sizes": [{
-                            "flash_bytes": 797435,
+                            "flash_bytes": 797447,
                             "flash_percentage": 25,
                             "ram_bytes": 16916,
                             "ram_percentage": 5
@@ -749,7 +757,7 @@
                     },
 {"name": "libraries/BLE/examples/Client",
                     "sizes": [{
-                            "flash_bytes": 852630,
+                            "flash_bytes": 852642,
                             "flash_percentage": 27,
                             "ram_bytes": 27932,
                             "ram_percentage": 8
@@ -765,7 +773,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Server",
                     "sizes": [{
-                            "flash_bytes": 862148,
+                            "flash_bytes": 862160,
                             "flash_percentage": 27,
                             "ram_bytes": 27964,
                             "ram_percentage": 8
@@ -773,7 +781,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_multiconnect",
                     "sizes": [{
-                            "flash_bytes": 854916,
+                            "flash_bytes": 854928,
                             "flash_percentage": 27,
                             "ram_bytes": 28020,
                             "ram_percentage": 8
@@ -781,7 +789,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_secure_static_passkey",
                     "sizes": [{
-                            "flash_bytes": 861180,
+                            "flash_bytes": 861192,
                             "flash_percentage": 27,
                             "ram_bytes": 27980,
                             "ram_percentage": 8
@@ -1015,7 +1023,7 @@
                     },
 {"name": "libraries/BLE/examples/Client",
                     "sizes": [{
-                            "flash_bytes": 643054,
+                            "flash_bytes": 643066,
                             "flash_percentage": 20,
                             "ram_bytes": 27884,
                             "ram_percentage": 8
@@ -1031,7 +1039,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Server",
                     "sizes": [{
-                            "flash_bytes": 650070,
+                            "flash_bytes": 650082,
                             "flash_percentage": 20,
                             "ram_bytes": 27908,
                             "ram_percentage": 8
@@ -1039,7 +1047,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_multiconnect",
                     "sizes": [{
-                            "flash_bytes": 644838,
+                            "flash_bytes": 644850,
                             "flash_percentage": 20,
                             "ram_bytes": 27988,
                             "ram_percentage": 8
@@ -1047,7 +1055,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_secure_static_passkey",
                     "sizes": [{
-                            "flash_bytes": 650218,
+                            "flash_bytes": 650230,
                             "flash_percentage": 20,
                             "ram_bytes": 27916,
                             "ram_percentage": 8

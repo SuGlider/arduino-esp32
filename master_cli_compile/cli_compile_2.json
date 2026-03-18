@@ -300,22 +300,6 @@
 { "board": "espressif:esp32:esp32c5",
                 "target": "esp32c5",
                 "sketches": [
-{"name": "libraries/ESP32/examples/AnalogOut/LEDCGammaFade",
-                    "sizes": [{
-                            "flash_bytes": 313116,
-                            "flash_percentage": 23,
-                            "ram_bytes": 17448,
-                            "ram_percentage": 5
-                            }]
-                    },
-{"name": "libraries/ESP32/examples/AnalogOut/LEDCSingleChannel",
-                    "sizes": [{
-                            "flash_bytes": 283626,
-                            "flash_percentage": 21,
-                            "ram_bytes": 17424,
-                            "ram_percentage": 5
-                            }]
-                    },
 {"name": "libraries/ESP32/examples/AnalogOut/LEDCSoftwareFade",
                     "sizes": [{
                             "flash_bytes": 283680,
@@ -441,6 +425,30 @@
                             "flash_bytes": 294838,
                             "flash_percentage": 22,
                             "ram_bytes": 17760,
+                            "ram_percentage": 5
+                            }]
+                    },
+{"name": "libraries/ESP32/examples/GPIO/FunctionalInterrupt",
+                    "sizes": [{
+                            "flash_bytes": 298798,
+                            "flash_percentage": 22,
+                            "ram_bytes": 17964,
+                            "ram_percentage": 5
+                            }]
+                    },
+{"name": "libraries/ESP32/examples/GPIO/FunctionalInterruptLambda",
+                    "sizes": [{
+                            "flash_bytes": 317106,
+                            "flash_percentage": 24,
+                            "ram_bytes": 18144,
+                            "ram_percentage": 5
+                            }]
+                    },
+{"name": "libraries/ESP32/examples/GPIO/FunctionalInterruptStruct",
+                    "sizes": [{
+                            "flash_bytes": 297038,
+                            "flash_percentage": 22,
+                            "ram_bytes": 17972,
                             "ram_percentage": 5
                             }]
                     }

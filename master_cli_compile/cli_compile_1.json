@@ -4,7 +4,7 @@
                 "sketches": [
 {"name": "libraries/BLE/examples/Server_secure_static_passkey",
                     "sizes": [{
-                            "flash_bytes": 1102335,
+                            "flash_bytes": 1102479,
                             "flash_percentage": 35,
                             "ram_bytes": 41272,
                             "ram_percentage": 12
@@ -12,7 +12,7 @@
                     },
 {"name": "libraries/BLE/examples/UART",
                     "sizes": [{
-                            "flash_bytes": 1098999,
+                            "flash_bytes": 1099147,
                             "flash_percentage": 34,
                             "ram_bytes": 41280,
                             "ram_percentage": 12
@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/BLE/examples/Write",
                     "sizes": [{
-                            "flash_bytes": 1095011,
+                            "flash_bytes": 1095163,
                             "flash_percentage": 34,
                             "ram_bytes": 41272,
                             "ram_percentage": 12
@@ -28,7 +28,7 @@
                     },
 {"name": "libraries/BLE/examples/iBeacon",
                     "sizes": [{
-                            "flash_bytes": 1100783,
+                            "flash_bytes": 1100931,
                             "flash_percentage": 34,
                             "ram_bytes": 41280,
                             "ram_percentage": 12
@@ -292,14 +292,6 @@
 { "board": "espressif:esp32:esp32c5",
                 "target": "esp32c5",
                 "sketches": [
-{"name": "libraries/BLE/examples/Server_secure_authorization",
-                    "sizes": [{
-                            "flash_bytes": 805269,
-                            "flash_percentage": 25,
-                            "ram_bytes": 23216,
-                            "ram_percentage": 7
-                            }]
-                    },
 {"name": "libraries/BLE/examples/Server_secure_static_passkey",
                     "sizes": [{
                             "flash_bytes": 804913,
@@ -433,6 +425,22 @@
                             "flash_bytes": 305228,
                             "flash_percentage": 23,
                             "ram_bytes": 17432,
+                            "ram_percentage": 5
+                            }]
+                    },
+{"name": "libraries/ESP32/examples/AnalogOut/LEDCGammaFade",
+                    "sizes": [{
+                            "flash_bytes": 313116,
+                            "flash_percentage": 23,
+                            "ram_bytes": 17448,
+                            "ram_percentage": 5
+                            }]
+                    },
+{"name": "libraries/ESP32/examples/AnalogOut/LEDCSingleChannel",
+                    "sizes": [{
+                            "flash_bytes": 283626,
+                            "flash_percentage": 21,
+                            "ram_bytes": 17424,
                             "ram_percentage": 5
                             }]
                     }
