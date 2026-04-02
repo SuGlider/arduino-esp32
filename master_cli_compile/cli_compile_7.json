@@ -1007,7 +1007,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterFan",
                     "sizes": [{
-                            "flash_bytes": 1877951,
+                            "flash_bytes": 1877935,
                             "flash_percentage": 59,
                             "ram_bytes": 109340,
                             "ram_percentage": 33

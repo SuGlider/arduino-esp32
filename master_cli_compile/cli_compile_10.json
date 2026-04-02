@@ -962,7 +962,7 @@
                     },
 {"name": "libraries/Update/examples/HTTPS_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 957287,
+                            "flash_bytes": 957279,
                             "flash_percentage": 73,
                             "ram_bytes": 42404,
                             "ram_percentage": 12
