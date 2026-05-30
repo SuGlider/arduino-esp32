@@ -44,7 +44,7 @@
                 },
 {"name": "libraries/WebServer/examples/ChunkWriting",
                 "sizes": [{
-                        "flash_bytes": 979540,
+                        "flash_bytes": 979556,
                         "flash_percentage": 75,
                         "ram_bytes": 49464,
                         "ram_percentage": 15
