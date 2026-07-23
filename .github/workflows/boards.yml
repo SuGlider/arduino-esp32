@@ -2,7 +2,8 @@ name: Boards Test
 
 # The workflow will run on schedule and labeled pull requests
 on:
-  pull_request:
+  workflow_dispatch:
+#  pull_request:
     paths:
       - "boards.txt"
       - "libraries/ESP32/examples/CI/CIBoardsTest/CIBoardsTest.ino"
