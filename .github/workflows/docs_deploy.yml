@@ -5,7 +5,7 @@ on:
     workflows: ["ESP32 Arduino Release"]
     types:
       - completed
-  push:
+#  push:
     branches:
       - release/v2.x
       - master
