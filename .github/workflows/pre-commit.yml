@@ -2,10 +2,10 @@ name: Pre-commit hooks
 
 on:
   workflow_dispatch:
-  push:
+#  push:
     branches:
       - master
-  pull_request:
+ # pull_request:
     types: [opened, reopened, synchronize, labeled]
 
 concurrency:
