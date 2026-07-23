@@ -2,11 +2,11 @@ name: Upload Tests
 
 on:
   workflow_dispatch:
-  push:
+#  push:
     branches:
       - master
       - release/*
-  pull_request:
+#  pull_request:
     paths:
       - "platform.txt"
       - "programmers.txt"
