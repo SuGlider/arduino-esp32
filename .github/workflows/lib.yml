@@ -6,8 +6,8 @@ on:
     types: [opened, reopened, synchronize, labeled]
 
   # Schedule weekly builds on every Sunday at 4 am
-  schedule:
-    - cron: "0 4 * * SUN"
+#  schedule:
+#    - cron: "0 4 * * SUN"
 
 concurrency:
   group: libs-${{ github.event.pull_request.number || github.ref }}
