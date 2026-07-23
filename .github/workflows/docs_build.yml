@@ -1,6 +1,7 @@
 name: Documentation Build and Deploy CI
 
 on:
+  workflow_dispatch:
 #  push:
     branches:
       - master
