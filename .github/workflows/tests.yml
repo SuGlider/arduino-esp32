@@ -17,7 +17,7 @@ on:
         description: 'Publish test results to gh-pages (report, badge, history)'
         type: boolean
         default: true
-  pull_request:
+#  pull_request:
     types: [opened, reopened, closed, synchronize, labeled, unlabeled]
     paths:
       - ".github/scripts/install*.sh"
@@ -32,8 +32,8 @@ on:
       - "package/**"
       - "!*.md"
       - "!*.properties"
-  schedule:
-    - cron: "0 0 * * *"
+#  schedule:
+#    - cron: "0 0 * * *"
 
 concurrency:
   group: tests-${{ github.event.pull_request.number || github.ref }}
